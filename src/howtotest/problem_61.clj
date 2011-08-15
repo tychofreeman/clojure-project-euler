@@ -94,9 +94,3 @@
 		)
 	)
 )
-
-;(defn solve [sets]
-;	(map #(apply solve-for %)
-;		([[1000] sets])
-;	)
-;)
